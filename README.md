@@ -3,7 +3,7 @@ Este algoritmo encuentra la frase objetivo "Genetics Algorithms", a travez de ca
 ## Requisitos
 - Python 2.7
 - Librería numpy
-## Instalacion
+## Instalación
 Si utilizas entorno linux, puedes ejecutar los siguientes comandos para instalar los requisitos. 
 ``` 
 sudo apt-get install python
